@@ -220,6 +220,7 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,python,visualstudiocode
 
+# 프로젝트 수행과정 중 생략해야할 파일
 .env
 venv
 test.ipynb
